@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l -a sort {$(pwd),..,/boot}
+ls -la {.,..,/boot}
